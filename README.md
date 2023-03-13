@@ -2,8 +2,8 @@ I have completed a frontend assignment using a variety of technologies including
 
 <h1>Tech Stack</h1>
 <ol>
-  <li>Html<li/>
-  <li>CSS<li/>
+  Html
+  CSS
   <li>JavaScript<li/>
   <li>Rect.js<li/>
   <li>Tailwind Css<li/>
