@@ -1,14 +1,14 @@
 I have completed a frontend assignment using a variety of technologies including HTML, CSS, JavaScript, React, Tailwind CSS, and Chakra UI. My project includes a user-friendly interface with visually appealing elements. I utilized the latest web development practices to create a modern and efficient application.
 
 <h1>Tech Stack</h1>
-<ol>
-  Html
-  CSS
+
+   <li>Html</li>
+   <li> CSS</li>
   <li>JavaScript<li/>
   <li>Rect.js<li/>
   <li>Tailwind Css<li/>
   <li>Chakra-Ui<li/>
-  </ol>
+ 
 
 <h1>
 
