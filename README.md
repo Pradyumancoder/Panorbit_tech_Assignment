@@ -4,10 +4,10 @@ I have completed a frontend assignment using a variety of technologies including
 
    <li>Html</li>
    <li> CSS</li>
-   <li>JavaScript<li/>
-   <li>RectJs<li/>
-   li>Tailwind Css<li/>
-   <li>Chakra-Ui<li/>
+   <li>JavaScript</li>
+   <li>RectJs</li>
+   li>Tailwind Css</li>
+   <li>Chakra-Ui</li>
  
 <h1>
 
