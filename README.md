@@ -10,9 +10,9 @@ I have completed a frontend assignment using a variety of technologies including
    <li>Chakra-Ui</li>
  
 <h1>
+    
+   <h1>Deployment Link: <span>https://panorbit-assignment-delta.vercel.app/  </span></h1>
    
-   <h1>Deployment Link: </h1>
-   https://panorbit-assignment-delta.vercel.app/
    
    
 
