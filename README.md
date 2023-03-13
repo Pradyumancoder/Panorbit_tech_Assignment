@@ -45,6 +45,7 @@ ChatPage
    <hr>
   
 # How to run This Code 
+   <ol>
 1-Download the zip file from GitHub.
 2-Go to the folder where the file was downloaded and extract it.
 3-Open the extracted files in Visual Studio Code or any other code editor platform.
@@ -52,3 +53,4 @@ ChatPage
 5-After the dependencies are installed, run the command "npm start" on the terminal.
 6-Open your web browser and type "localhost:3000" to access the site, or it may automatically open.
 7-Explore the site
+   </ol>
